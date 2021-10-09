@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1632392574 source:g:\assignment_c_program\day2_5\main.c
+	"operator.h"
+
+1632392552 source:g:\assignment_c_program\day2_5\operator.c
+	<stdio.h>
+	"operator.h"
+
+1632389888 g:\assignment_c_program\day2_5\operator.h
+
+1633759266 source:g:\assignment_c_program\day2_6\main.c
+	<stdio.h>
+	<assert.h>
+	"operator.h"
+
+1633758127 g:\assignment_c_program\day2_6\operator.h
+
+1633759913 source:g:\assignment_c_program\day2_6\operator.c
+	<stdio.h>
+	"operator.h"
+
