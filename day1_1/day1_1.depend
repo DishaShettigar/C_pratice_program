@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632148193 source:g:\assignment_c_program\day1_1\op.c
+	"op.h"
+	<math.h>
+
+1632118248 g:\assignment_c_program\day1_1\op.h
+
+1632157549 source:g:\assignment_c_program\day1_1\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"op.h"
+
